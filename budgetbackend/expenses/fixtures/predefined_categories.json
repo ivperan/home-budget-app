@@ -1,0 +1,93 @@
+[
+    {
+        "model": "expenses.category",
+        "fields": {
+            "name": "Food",
+            "user": null,
+            "created_at": "2025-06-18T00:00:00Z",
+            "updated_at": "2025-06-18T00:00:00Z"
+        }
+    },
+    {
+        "model": "expenses.category",
+        "fields": {
+            "name": "Transportation",
+            "user": null,
+            "created_at": "2025-06-18T00:00:00Z",
+            "updated_at": "2025-06-18T00:00:00Z"
+        }
+    },
+    {
+        "model": "expenses.category",
+        "fields": {
+            "name": "Housing",
+            "user": null,
+            "created_at": "2025-06-18T00:00:00Z",
+            "updated_at": "2025-06-18T00:00:00Z"
+
+        }
+    },
+    {
+        "model": "expenses.category",
+        "fields": {
+            "name": "Utilities",
+            "user": null,
+            "created_at": "2025-06-18T00:00:00Z",
+            "updated_at": "2025-06-18T00:00:00Z"
+        }
+    },
+    {
+        "model": "expenses.category",
+        "fields": {
+            "name": "Healthcare",
+            "user": null,
+            "created_at": "2025-06-18T00:00:00Z",
+            "updated_at": "2025-06-18T00:00:00Z"
+        }
+    },
+    {
+        "model": "expenses.category",
+        "fields": {
+            "name": "Entertainment",
+            "user": null,
+            "created_at": "2025-06-18T00:00:00Z",
+            "updated_at": "2025-06-18T00:00:00Z"
+        }
+    },
+    {
+        "model": "expenses.category",
+        "fields": {
+            "name": "Education",
+            "user": null,
+            "created_at": "2025-06-18T00:00:00Z",
+            "updated_at": "2025-06-18T00:00:00Z"
+        }
+    },
+    {
+        "model": "expenses.category",
+        "fields": {
+            "name": "Gifts",
+            "user": null,
+            "created_at": "2025-06-18T00:00:00Z",
+            "updated_at": "2025-06-18T00:00:00Z"
+        }
+    },
+    {
+        "model": "expenses.category",
+        "fields": {
+            "name": "Shopping",
+            "user": null,
+            "created_at": "2025-06-18T00:00:00Z",
+            "updated_at": "2025-06-18T00:00:00Z"
+        }
+    },
+    {
+        "model": "expenses.category",
+        "fields": {
+            "name": "Other",
+            "user": null,
+            "created_at": "2025-06-18T00:00:00Z",
+            "updated_at": "2025-06-18T00:00:00Z"
+        }
+    }
+]

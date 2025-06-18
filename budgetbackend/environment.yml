@@ -1,0 +1,16 @@
+name: budget-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - django
+  - djangorestframework
+  - psycopg2
+  - django-cors-headers
+  - pip
+  - pip:
+    - drf-yasg
+    - python-dotenv
+    - black
+    - isort
